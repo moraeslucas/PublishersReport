@@ -5,3 +5,6 @@ This program creates a Report for main Publishers. More precisely, this Report p
 <br/>
 <br/>
 For more information, please see the file Program-Guide.pdf 
+<br/>
+<br/>
+PS: The Zip file was compressed with 7-Zip
